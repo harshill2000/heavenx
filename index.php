@@ -1,3 +1,3 @@
 <?php
-include_once(login-ecommerce.html);
+include_once(index.html);
 ?>
